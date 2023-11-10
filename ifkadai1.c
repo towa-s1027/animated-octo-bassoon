@@ -15,10 +15,7 @@ int main(void)
 		{
 			printf("%d\n", i);
 		}
-		else if (i % 221 == 0)
-		{
-			printf("%d\n", i);
-		}
+		
 	}
 
 	return 0;
